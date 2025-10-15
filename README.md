@@ -38,5 +38,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone <https://github.com/clarenceparmar/wp-xml.git>
+   cd <wp-xml>
