@@ -34,7 +34,7 @@
 
 ---
 
-## Installation / Build (developer / lab)
+## Installation Windows
 
 1. Clone the repository:
    ```bash
