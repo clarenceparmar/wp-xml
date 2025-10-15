@@ -38,5 +38,6 @@
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/clarenceparmar/wp-xml.git>
-   cd <wp-xml>
+   git clone https://github.com/clarenceparmar/wp-xml.git
+   cd wp-xml
+   wp-xml -c 10 -r 10 -m 5 -t http://test.site/xmlrpc.php -u username -w /path/to/wordlist/file/for/passwords
